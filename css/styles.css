@@ -434,6 +434,7 @@ button {
 
 .footer {
     background-color: var(--secondary-bgc-color);
+    
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -444,13 +445,13 @@ button {
 
 .footer .logo {
     color: var(--white-color);
+
     margin-bottom: 20px;
     display: block;
 }
 
 .address-link {
     color: var(--white-color);
-
     line-height: 1.71;
     text-decoration: none;
     font-style: normal;
@@ -460,6 +461,7 @@ button {
     color: rgba(255, 255, 255, 0.6);
     line-height: 1.71;
     text-decoration: none;
+    font-style: normal;
 
     margin-bottom: 9px;
 }
